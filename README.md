@@ -2,33 +2,33 @@
 
 # 🌐 VTunnel Share Client — Releases Oficiais
 
-[![Latest Pre-Release](https://img.shields.io/github/v/release/TelksBr/vtunnel-share-releases?include_prereleases&color=7C3AED&label=Pr%C3%A9-Release)](https://github.com/TelksBr/vtunnel-share-releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/TelksBr/vtunnel-share-releases?color=7C3AED&label=Release)](https://github.com/TelksBr/vtunnel-share-releases/releases)
 [![Downloads](https://img.shields.io/github/downloads/TelksBr/vtunnel-share-releases/total?color=059669)](https://github.com/TelksBr/vtunnel-share-releases/releases)
 
 **Cliente de tunelamento transparente para conexão via Hotspot SOCKS5 do app VTunnel.**  
 Disponível para **Android** e **Windows (x64 e ARM64)**.
 
-[📥 Baixar Última Versão](https://github.com/TelksBr/vtunnel-share-releases/releases/tag/v0.1.0-pre) • [📖 Como Usar](#-como-usar)
+[📥 Baixar Última Versão](https://github.com/TelksBr/vtunnel-share-releases/releases/tag/v0.1.0) • [📖 Como Usar](#-como-usar)
 
 ---
 </div>
 
-## 📥 Downloads Disponíveis (v0.1.0-pre)
+## 📥 Downloads Disponíveis (v0.1.0)
 
 ### 📱 Android (7.0+)
 | Arquitetura | Arquivo | Tamanho | Descrição |
 | :--- | :--- | :--- | :--- |
-| **ARM 64-bit** | [VTunnelShare-v0.1.0-arm64-v8a.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/VTunnelShare-v0.1.0-arm64-v8a.apk) | 12.5 MB | Recomendado para 99% dos celulares modernos |
-| **ARM 32-bit** | [VTunnelShare-v0.1.0-armeabi-v7a.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/VTunnelShare-v0.1.0-armeabi-v7a.apk) | 12.1 MB | Para celulares mais antigos ou TV Box 32-bit |
-| **Universal** | [VTunnelShare-v0.1.0-universal.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/VTunnelShare-v0.1.0-universal.apk) | 22.9 MB | Pacote universal (todas as arquiteturas) |
+| **ARM 64-bit** | [app-arm64-v8a-release.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/app-arm64-v8a-release.apk) | 12.5 MB | Recomendado para 99% dos celulares modernos |
+| **ARM 32-bit** | [app-armeabi-v7a-release.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/app-armeabi-v7a-release.apk) | 12.1 MB | Para celulares mais antigos ou TV Box 32-bit |
+| **Universal** | [app-universal-release.apk](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/app-universal-release.apk) | 22.9 MB | Pacote universal (todas as arquiteturas) |
 
 ### 💻 Windows (10/11)
 | Arquitetura | Arquivo | Tamanho | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Intel / AMD 64-bit (GUI)** | [VTunnelShare-v0.1.0-windows-amd64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/VTunnelShare-v0.1.0-windows-amd64.exe) | 12.0 MB | Interface gráfica de bandeja (Systray) para PCs x64 |
-| **ARM 64-bit (GUI)** | [VTunnelShare-v0.1.0-windows-arm64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/VTunnelShare-v0.1.0-windows-arm64.exe) | 10.9 MB | Interface gráfica para Snapdragon X Elite / Surface Pro |
-| **Intel / AMD 64-bit (CLI)** | [vtshare-cli-v0.1.0-windows-amd64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/vtshare-cli-v0.1.0-windows-amd64.exe) | 11.0 MB | Prompt de comando / automação para x64 |
-| **ARM 64-bit (CLI)** | [vtshare-cli-v0.1.0-windows-arm64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0-pre/vtshare-cli-v0.1.0-windows-arm64.exe) | 9.9 MB | Prompt de comando / automação para ARM64 |
+| **Intel / AMD 64-bit (GUI)** | [VTunnelShare-windows-amd64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/VTunnelShare-windows-amd64.exe) | 12.0 MB | Interface gráfica de bandeja (Systray) para PCs x64 |
+| **ARM 64-bit (GUI)** | [VTunnelShare-windows-arm64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/VTunnelShare-windows-arm64.exe) | 10.9 MB | Interface gráfica para Snapdragon X Elite / Surface Pro |
+| **Intel / AMD 64-bit (CLI)** | [vtshare-cli-windows-amd64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/vtshare-cli-windows-amd64.exe) | 11.0 MB | Prompt de comando / automação para x64 |
+| **ARM 64-bit (CLI)** | [vtshare-cli-windows-arm64.exe](https://github.com/TelksBr/vtunnel-share-releases/releases/download/v0.1.0/vtshare-cli-windows-arm64.exe) | 9.9 MB | Prompt de comando / automação para ARM64 |
 
 > ⚠️ **Aviso Windows:** Execute o aplicativo como **Administrador** para que o driver virtual Wintun possa criar a interface de rede TUN e configurar as rotas do sistema.
 
